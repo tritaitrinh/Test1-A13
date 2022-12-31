@@ -1,2 +1,15 @@
 # Test1-A13
-Allo
+
+## Initialiser Repository
+
+## Ajouter des collaborateurs
+
+## Creer un commit
+
+## Creer une branche
+
+## Gerer des conglits de marge
+
+## Pull Request
+
+## Merge
