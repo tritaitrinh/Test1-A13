@@ -8,7 +8,7 @@
 
 ## Creer une branche
 
-## Gerer des conglits de marge
+## Gerer des conflits de marge
 
 ## Pull Request
 
